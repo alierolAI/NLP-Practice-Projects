@@ -1,31 +1,67 @@
 # NLP Practice Projects
 
-A collection of Natural Language Processing (NLP) projects developed for learning and experimentation with modern text processing techniques and deep learning models.
+A collection of Natural Language Processing (NLP) projects developed while learning modern NLP techniques, recurrent neural networks, word embeddings, and deep learning-based language applications.
 
-## Projects Included
+This repository focuses on both the theoretical foundations and practical implementations of NLP systems using Python and deep learning frameworks.
 
-### Word2Vec
-- Custom Word2Vec training
-- Text corpus preprocessing
-- Word embeddings generation
-- Semantic similarity experiments
+---
 
-### GloVe
-- Pretrained embedding usage
-- Vector representation analysis
-- NLP embedding experiments
+## Topics Covered
 
-### NLTK
+### Natural Language Processing Fundamentals
+- Text preprocessing
 - Tokenization
 - Stopword removal
 - Lemmatization & stemming
 - Text cleaning pipelines
 
+### Word Embeddings
+- Word2Vec training
+- GloVe embeddings
+- Semantic vector representations
+- Similarity analysis
+
+### Deep Learning for NLP
+- Recurrent Neural Networks (RNN)
+- LSTM architectures
+- GRU architectures
+- Sequence modeling
+
+### NLP Applications
+- Sentiment Analysis
+- Text classification
+- Sequence-to-sequence (Seq2Seq) systems
+- Machine Translation concepts
+- Image Captioning concepts
+
+---
+
+## Projects Included
+
+### Word2Vec
+- Custom Word2Vec model training
+- Corpus preprocessing
+- Embedding generation
+- Semantic similarity experiments
+
+### GloVe
+- Pretrained embedding integration
+- Vector analysis
+- Word representation experiments
+
+### NLTK
+- NLP preprocessing workflows
+- Tokenization & normalization
+- Stopword filtering
+- Lemmatization pipelines
+
 ### Sentiment Analysis
-- Text classification with deep learning
-- LSTM / GRU based sentiment analysis
-- NLP preprocessing pipeline
+- Deep learning-based sentiment classification
+- LSTM / GRU experiments
 - Sequence padding & tokenization
+- Text preprocessing pipeline
+
+---
 
 ## Technologies Used
 
@@ -37,14 +73,18 @@ A collection of Natural Language Processing (NLP) projects developed for learnin
 - Pandas
 - Scikit-learn
 
-## Topics Covered
+---
 
-- Natural Language Processing
-- Word Embeddings
-- Deep Learning for NLP
-- Sequence Models
-- Text Preprocessing
-- Sentiment Classification
+## Learning Goals
+
+This repository was created to better understand:
+- Modern NLP pipelines
+- Word vector representations
+- Deep learning architectures for language processing
+- Sequence learning systems
+- Real-world NLP application development
+
+---
 
 ## Notes
 
